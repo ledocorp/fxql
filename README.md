@@ -8,7 +8,7 @@ fxql runs a single SQL statement against a file database under `--allow` (FsCap)
 |--|--|
 | **Requires** | [fx](https://github.com/ledocorp/fxlang) **0.9.6+** (with `--cli`) |
 | **Platforms** | Windows + Linux **x86_64** |
-| **License** | Apache-2.0 (tool) · SQLite blessing (bundled amalgamation) |
+| **License** | GPL-3.0 (tool) · SQLite blessing (bundled amalgamation) |
 | **Org** | [LedoCorp](http://www.ledocorp.org) |
 
 ## Install (release binaries)
@@ -77,4 +77,4 @@ REPL · full `.dump` · network DB · ORM · JSON/HTML mode zoo · stdin SQL · 
 
 ## License
 
-Copyright Shawn Londono · LedoCorp · Apache-2.0 — see [LICENSE](LICENSE).
+Copyright Shawn Londono · LedoCorp · GPL-3.0 — see [LICENSE](LICENSE).
